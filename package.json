@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-system-env",
+  "version": "1.0.0",
+  "description": "Insomnia plugin for accessing system environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "insomnia": {
+    "name": "system-env",
+    "description": "Allows accessing system environment variables within insomnia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etauker/insomnia-plugin-system-env.git"
+  },
+  "keywords": [
+    "insomnia",
+    "etauker"
+  ],
+  "author": "Tautvydas Kersulis <etauker@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etauker/insomnia-plugin-system-env/issues"
+  },
+  "homepage": "https://github.com/etauker/insomnia-plugin-system-env#readme"
+}

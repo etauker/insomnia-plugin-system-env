@@ -23,9 +23,9 @@ HOME=/home/etauker
 ### Example 2
 Access custom environment variable within insomnia.  
 
-1. Set the variable from the same shell that you use to open insomnia
+1. Set the variable from the same shell that you use to open insomnia (MacOS example below)
 ```
-$ SOME_TOKEN=3fc345d2-9dd8-48e8-a178-3c91c867cc41 insomnia
+$ SOME_TOKEN=3fc345d2-9dd8-48e8-a178-3c91c867cc41 /Applications/Insomnia.app/Contents/MacOS/Insomnia
 ```
 
 2. Use the custom environment variable name the same way as in example 1:
